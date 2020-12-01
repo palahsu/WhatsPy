@@ -19,11 +19,11 @@ Implemented in Python using the Selenium module.<p>
     <a href="https://www.python.org/">
     	<img src="https://img.shields.io/badge/built%20with-Python3-red.svg" />
     </a>  
-    <a href="https://discord.gg/FDETsht">
-	<img src="https://img.shields.io/telegram/t.me/linux_repo.svg">
+    <[![HitCount](http://hits.dwyl.com/palahsu/WhatsPy.svg)](http://hits.dwyl.com/palahsu/WhatsPy)>
     </a>
   </p>
-</p>   
+</p>
+<[![HitCount](http://hits.dwyl.com/palahsu/WhatsPy.svg)](http://hits.dwyl.com/palahsu/WhatsPy)>
    
 
 ## Credits
