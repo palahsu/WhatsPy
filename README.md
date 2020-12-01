@@ -1,5 +1,5 @@
-# WhatsPy
-WhatsApp - Bomber - Tool for automated messaging WhatsApp interactions.
+# WhatsPy💣
+WhatsApp - 💣Bomber💣 - Tool for automated messaging WhatsApp interactions.
 
 It's automated messaging tool sending unlimited message.
    Implemented in Python using the Selenium module.
@@ -24,6 +24,39 @@ Implemented in Python using the Selenium module.<p>
 
 ## (GitHub Repo) Hit Counter
 [![HitCount](http://hits.dwyl.com/palahsu/WhatsPy.svg)](http://hits.dwyl.com/palahsu/WhatsPy)   
+
+## Requirements
+
+✔️Python 3.x
+✔️Chrome Browser
+       or
+✔️ChromeWebDriver
+
+✔️pip install selenium
+
+✔️pip install webdriver-manager
+
+✔️pip install -r requirements.txt
+
+## How to Run Script
+
+`python whatsbomber.py / python3 whatsbomber.py`
+
+✔️Press Enter
+
+`Enter target full name/number`
+
+✔️Press Enter
+
+✔️Scan QRCode
+
+✔️On Android: in the Chats screen > Menu > WhatsApp Web.
+✔️On iPhone: go to Settings > WhatsApp Web.
+✔️On Windows Phone: go to Menu > WhatsApp Web.
+
+✔️Press Enter
+
+💣Bombing Complete!!
 
 ## Credits
 ### Community
