@@ -18,13 +18,12 @@ Implemented in Python using the Selenium module.<p>
     </a>
     <a href="https://www.python.org/">
     	<img src="https://img.shields.io/badge/built%20with-Python3-red.svg" />
-    </a>  
-    <[![HitCount](http://hits.dwyl.com/palahsu/WhatsPy.svg)](http://hits.dwyl.com/palahsu/WhatsPy)>
     </a>
   </p>
 </p>
-<[![HitCount](http://hits.dwyl.com/palahsu/WhatsPy.svg)](http://hits.dwyl.com/palahsu/WhatsPy)>
-   
+
+## (GitHub Repo) Hit Counter
+<[![HitCount](http://hits.dwyl.com/palahsu/WhatsPy.svg)](http://hits.dwyl.com/palahsu/WhatsPy)>   
 
 ## Credits
 ### Community
