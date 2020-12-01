@@ -23,7 +23,7 @@ Implemented in Python using the Selenium module.<p>
 </p>
 
 ## (GitHub Repo) Hit Counter
-<[![HitCount](http://hits.dwyl.com/palahsu/WhatsPy.svg)](http://hits.dwyl.com/palahsu/WhatsPy)>   
+[![HitCount](http://hits.dwyl.com/palahsu/WhatsPy.svg)](http://hits.dwyl.com/palahsu/WhatsPy)   
 
 ## Credits
 ### Community
