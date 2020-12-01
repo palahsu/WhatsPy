@@ -54,7 +54,7 @@ This project exists thanks to all the people who contribute.
 </p><p align="left">
 <a href="https://t.me/AD0000000"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a>
 </p><p align="left">
-<a href="https://t.me/abirhasan2005"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a>
+<a href="https://t.me/AbirHasan2005"><img src="https://img.shields.io/badge/Telegram-Contact%20AbirHasan2005-blue.svg?logo=telegram"></a>
 </p><p align="left"> 	
 
 Thank you to all our backers!
