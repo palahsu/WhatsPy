@@ -1,4 +1,4 @@
-# WhatsPy
+# WhatsBobmPy
 WhatsApp - Bomber - Tool for automated messaging WhatsApp interactions.
 
 It's automated messaging tool sending unlimited message.
