@@ -6,7 +6,7 @@ It's automated messaging tool sending unlimited message.
    
 <p align="center">
   <img src="https://i.imgur.com/fmSyZX8.jpg" width="154">
-  <h1 align="center">WhatsBombPy</h1>
+  <h1 align="center">WhatsPy</h1>
   <p align="center">Tooling that <b>automates message</b> your social media interactions to messages on Whatsapp.
 Implemented in Python using the Selenium module.<p>
   <p align="center">
