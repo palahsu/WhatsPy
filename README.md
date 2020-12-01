@@ -36,7 +36,8 @@ Thank you all for being part of the WhatsPy community ✌️
 
 ### Contributors
 
-This project exists thanks to all the people who contribute. [[Contribute](https://github.com/timgrossmann/WhatsPy/wiki/How-to-Contribute)].
+This project exists thanks to all the people who contribute.
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 <a href="https://github.com/palahsu/WhatsPy/graphs/contributors">
 </a> 
