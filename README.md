@@ -20,10 +20,7 @@ Implemented in Python using the Selenium module.<p>
     	<img src="https://img.shields.io/badge/built%20with-Python3-red.svg" />
     </a>
   </p>
-</p>
-
-## (GitHub Repo) Hit Counter
-[![HitCount](http://hits.dwyl.com/palahsu/WhatsPy.svg)](http://hits.dwyl.com/palahsu/WhatsPy)   
+</p>  
 
 ## Requirements
 
