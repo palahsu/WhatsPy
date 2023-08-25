@@ -57,7 +57,7 @@ Implemented in Python using the Selenium module.<p>
 
 ## Credits
 ### Community
-An active and supportive community is what every open-source project needs to sustain. Together we reached every continent and most of the countries in the world!   
+An active and supportive community is what every closed-source project needs to sustain. Together we reached every continent and most of the countries in the world!   
 Thank you all for being part of the WhatsPy community ✌️
 
 <p align="center">
